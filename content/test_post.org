@@ -1,0 +1,12 @@
+#+TITLE: Raspberry PiでOrg-modeブログ
+#+DATE: 2025-12-01 20:00
+#+CATEGORY: Tech
+#+TAGS: RPi, Org-mode, Pelican
+#+SLUG: rpi-org-mode-blog
+#+AUTHOR: 増田陽一
+#+SUMMARY: PelicanでOrg-modeを使って記事を書く手順のテスト投稿です。
+
+これは *Org-mode* で書かれた **本文** です。
+Org-modeの記法をそのまま使ってブログ記事を作成できます。
+- リスト1
+- リスト2
