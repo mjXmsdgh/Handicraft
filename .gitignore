@@ -8,15 +8,6 @@ output/
 # 仮想環境
 venv/
 
-# Pelican ソースファイルと設定ファイル
-pelicanconf.py
-publishconf.py
-Makefile
-fabfile.py
-
-# ブログ記事の Org-mode ソースファイル
-content/
-
 # Emacs のバックアップファイルなど
 *~
 \#*
