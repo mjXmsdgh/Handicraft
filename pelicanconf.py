@@ -6,3 +6,4 @@ PATH = 'content'
 
 TIMEZONE = 'Asia/Tokyo'
 
+THEME = 'notmyidea'
