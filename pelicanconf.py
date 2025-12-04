@@ -6,4 +6,6 @@ PATH = 'content'
 
 TIMEZONE = 'Asia/Tokyo'
 
-THEME = 'notmyidea'
+THEME = 'themes/elegant'
+
+TEPUE_SEARCH = False
