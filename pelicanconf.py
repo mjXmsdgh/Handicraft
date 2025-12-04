@@ -1,0 +1,11 @@
+AUTHOR = 'Your Name'
+SITENAME = 'MyMinimal Site'
+SITEURL = ''
+
+PATH = 'content'
+
+TIMEZONE = 'Asia/Tokyo'
+
+THEME = 'themes/elegant'
+
+TEPUE_SEARCH = False

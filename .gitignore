@@ -1,0 +1,16 @@
+
+# cash
+__pycache__
+
+# output
+output/
+
+themes/
+
+# 仮想環境
+venv/
+
+# Emacs のバックアップファイルなど
+*~
+\#*
+.\#*
