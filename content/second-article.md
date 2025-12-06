@@ -1,10 +1,10 @@
 ---
-Title: my second
+Title: ２つ目の記事
 Date: 2025-12-03 21:30
-Category: Sample
-Tags: minimal, test
+Category: maintenance
+Tags: sample
 ---
 
 # title
 
-minimal html2
+２つ目の記事の本文
