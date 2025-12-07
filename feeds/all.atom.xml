@@ -1,3 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Handicraft</title><link href="https://mjXmsdgh.github.io/Handicraft/" rel="alternate"/><link href="https://mjXmsdgh.github.io/Handicraft/feeds/all.atom.xml" rel="self"/><id>https://mjXmsdgh.github.io/Handicraft/</id><updated>2025-12-03T21:30:00+09:00</updated><entry><title>２つ目の記事</title><link href="https://mjXmsdgh.github.io/Handicraft/2tsumu-noji-shi.html" rel="alternate"/><published>2025-12-03T21:30:00+09:00</published><updated>2025-12-03T21:30:00+09:00</updated><author><name>MasudaYouichi</name></author><id>tag:mjxmsdgh.github.io,2025-12-03:/Handicraft/2tsumu-noji-shi.html</id><content type="html">&lt;h1&gt;title&lt;/h1&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Handicraft</title><link href="https://mjXmsdgh.github.io/Handicraft/" rel="alternate"/><link href="https://mjXmsdgh.github.io/Handicraft/feeds/all.atom.xml" rel="self"/><id>https://mjXmsdgh.github.io/Handicraft/</id><updated>2025-12-07T20:15:00+09:00</updated><entry><title>python-markdownの書き方</title><link href="https://mjXmsdgh.github.io/Handicraft/python-markdownnoshu-kifang.html" rel="alternate"/><published>2025-12-07T20:15:00+09:00</published><updated>2025-12-07T20:15:00+09:00</updated><author><name>MasudaYouichi</name></author><id>tag:mjxmsdgh.github.io,2025-12-07:/Handicraft/python-markdownnoshu-kifang.html</id><summary type="html">&lt;h1&gt;見出し&lt;/h1&gt;
+&lt;p&gt;# 見出し1&lt;br&gt;
+## 見出し2&lt;br&gt;
+### 見出し3  &lt;/p&gt;
+&lt;h1&gt;改行&lt;/h1&gt;
+&lt;p&gt;行末にスペースを２つ&lt;/p&gt;
+&lt;h1&gt;リスト&lt;/h1&gt;
+&lt;p&gt;-,*,+が使える&lt;/p&gt;
+&lt;h1&gt;番号付きリスト&lt;/h1&gt;
+&lt;p&gt;\1. を書くと自動で連番 …&lt;/p&gt;</summary><content type="html">&lt;h1&gt;見出し&lt;/h1&gt;
+&lt;p&gt;# 見出し1&lt;br&gt;
+## 見出し2&lt;br&gt;
+### 見出し3  &lt;/p&gt;
+&lt;h1&gt;改行&lt;/h1&gt;
+&lt;p&gt;行末にスペースを２つ&lt;/p&gt;
+&lt;h1&gt;リスト&lt;/h1&gt;
+&lt;p&gt;-,*,+が使える&lt;/p&gt;
+&lt;h1&gt;番号付きリスト&lt;/h1&gt;
+&lt;p&gt;\1. を書くと自動で連番になる&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;A  &lt;/li&gt;
+&lt;li&gt;B  &lt;/li&gt;
+&lt;li&gt;C&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1&gt;引用&lt;/h1&gt;
+&lt;p&gt;&amp;gt;で囲む&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;gt;を書いた場合の引用  &lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1&gt;リンク、画像&lt;/h1&gt;
+&lt;p&gt;[リンクのテキスト](URL)&lt;/p&gt;</content><category term="maintenance"/><category term="python-markdown"/></entry><entry><title>２つ目の記事</title><link href="https://mjXmsdgh.github.io/Handicraft/2tsumu-noji-shi.html" rel="alternate"/><published>2025-12-03T21:30:00+09:00</published><updated>2025-12-03T21:30:00+09:00</updated><author><name>MasudaYouichi</name></author><id>tag:mjxmsdgh.github.io,2025-12-03:/Handicraft/2tsumu-noji-shi.html</id><content type="html">&lt;h1&gt;title&lt;/h1&gt;
 &lt;p&gt;２つ目の記事の本文&lt;/p&gt;</content><category term="maintenance"/><category term="sample"/></entry><entry><title>最初の記事のタイトル</title><link href="https://mjXmsdgh.github.io/Handicraft/zui-chu-noji-shi-notaitoru.html" rel="alternate"/><published>2025-12-03T21:00:00+09:00</published><updated>2025-12-03T21:00:00+09:00</updated><author><name>MasudaYouichi</name></author><id>tag:mjxmsdgh.github.io,2025-12-03:/Handicraft/zui-chu-noji-shi-notaitoru.html</id><content type="html">&lt;p&gt;ブログの本文&lt;/p&gt;</content><category term="maintenance"/><category term="sample"/></entry></feed>
