@@ -20,3 +20,9 @@ DELETE_OUTPUT_DIRECTORY = True
 
 # DISQUS_SITENAME = ""
 # GOOGLE_ANALYTICS = ""
+
+SOCIAL = (
+    ('GitHub', 'https://github.com/mjXmsdgh/Handicraft'),
+    ('RSS', SITEURL + '/' + FEED_ALL_ATOM), 
+)
+       
