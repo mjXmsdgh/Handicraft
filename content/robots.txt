@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://mjxmsdgh.github.io./Handicraft/sitemap/xml
