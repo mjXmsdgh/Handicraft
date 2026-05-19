@@ -1,5 +1,16 @@
-
-
-blog URL:
+* blog URL:
 
 [[https://mjxmsdgh.github.io/Handicraft/]]
+
+
+* activate
+
+source /bin/activate
+
+* サーバの起動と自動ビルド
+pelican --autoreload --listen
+
+
+* コミット方法
+
+ghp-import --push output
