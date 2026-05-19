@@ -5,147 +5,154 @@ xmlns:xhtml="http://www.w3.org/1999/xhtml"
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-<loc>https://mjXmsdgh.github.io/Handicraft/</loc>
-<lastmod>2025-12-22T20:23:20-00:00</lastmod>
+<loc>/</loc>
+<lastmod>2026-05-19T21:25:09-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://mjXmsdgh.github.io/Handicraft/2tsumu-noji-shi.html</loc>
+<loc>/2tsumu-noji-shi.html</loc>
 <lastmod>2025-12-03T21:30:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://mjXmsdgh.github.io/Handicraft/archives.html</loc>
-<lastmod>2025-12-22T20:23:20-00:00</lastmod>
+<loc>/archives.html</loc>
+<lastmod>2026-05-19T21:25:09-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://mjXmsdgh.github.io/Handicraft/author/masudayouichi.html</loc>
-<lastmod>2025-12-22T20:23:20-00:00</lastmod>
+<loc>/author/masudayouichi.html</loc>
+<lastmod>2026-05-19T21:25:09-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://mjXmsdgh.github.io/Handicraft/authors.html</loc>
-<lastmod>2025-12-22T20:23:20-00:00</lastmod>
+<loc>/authors.html</loc>
+<lastmod>2026-05-19T21:25:09-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://mjXmsdgh.github.io/Handicraft/categories.html</loc>
-<lastmod>2025-12-22T20:23:20-00:00</lastmod>
+<loc>/categories.html</loc>
+<lastmod>2026-05-19T21:25:09-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://mjXmsdgh.github.io/Handicraft/category/embroidery.html</loc>
-<lastmod>2025-12-22T20:23:20-00:00</lastmod>
+<loc>/category/embroidery.html</loc>
+<lastmod>2026-05-19T21:25:09-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://mjXmsdgh.github.io/Handicraft/category/maintenance.html</loc>
-<lastmod>2025-12-22T20:23:20-00:00</lastmod>
+<loc>/category/maintenance.html</loc>
+<lastmod>2026-05-19T21:25:09-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://mjXmsdgh.github.io/Handicraft/himawari1.html</loc>
+<loc>/himawari1.html</loc>
 <lastmod>2025-12-10T20:24:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://mjXmsdgh.github.io/Handicraft/himawari2.html</loc>
+<loc>/himawari2.html</loc>
 <lastmod>2025-12-13T20:10:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://mjXmsdgh.github.io/Handicraft/himawari3.html</loc>
+<loc>/himawari3.html</loc>
 <lastmod>2025-12-16T20:19:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://mjXmsdgh.github.io/Handicraft/himawari4.html</loc>
+<loc>/himawari4.html</loc>
 <lastmod>2025-12-20T20:25:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://mjXmsdgh.github.io/Handicraft/himawari5.html</loc>
+<loc>/himawari5.html</loc>
 <lastmod>2025-12-22T20:22:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://mjXmsdgh.github.io/Handicraft/hua-xiang-wotie-rifu-kerutesuto.html</loc>
+<loc>/himawari6.html</loc>
+<lastmod>2026-05-19T21:30:00+09:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>/hua-xiang-wotie-rifu-kerutesuto.html</loc>
 <lastmod>2025-12-08T20:01:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://mjXmsdgh.github.io/Handicraft/python-markdownnoshu-kifang.html</loc>
+<loc>/python-markdownnoshu-kifang.html</loc>
 <lastmod>2025-12-07T20:15:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://mjXmsdgh.github.io/Handicraft/tag/cross-stitch.html</loc>
-<lastmod>2025-12-22T20:23:20-00:00</lastmod>
+<loc>/tag/cross-stitch.html</loc>
+<lastmod>2026-05-19T21:25:09-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://mjXmsdgh.github.io/Handicraft/tag/image.html</loc>
-<lastmod>2025-12-22T20:23:20-00:00</lastmod>
+<loc>/tag/image.html</loc>
+<lastmod>2026-05-19T21:25:09-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://mjXmsdgh.github.io/Handicraft/tag/python-markdown.html</loc>
-<lastmod>2025-12-22T20:23:20-00:00</lastmod>
+<loc>/tag/python-markdown.html</loc>
+<lastmod>2026-05-19T21:25:09-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://mjXmsdgh.github.io/Handicraft/tag/sample.html</loc>
-<lastmod>2025-12-22T20:23:20-00:00</lastmod>
+<loc>/tag/sample.html</loc>
+<lastmod>2026-05-19T21:25:09-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://mjXmsdgh.github.io/Handicraft/tags.html</loc>
-<lastmod>2025-12-22T20:23:20-00:00</lastmod>
+<loc>/tags.html</loc>
+<lastmod>2026-05-19T21:25:09-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://mjXmsdgh.github.io/Handicraft/zui-chu-noji-shi-notaitoru.html</loc>
+<loc>/zui-chu-noji-shi-notaitoru.html</loc>
 <lastmod>2025-12-03T21:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
