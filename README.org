@@ -7,10 +7,12 @@
 
 source /bin/activate
 
+
 * サーバの起動と自動ビルド
 pelican --autoreload --listen
 
+* 公開用ビルド
+pelican content -s publishconf.py
 
 * コミット方法
-
-ghp-import --push output
+ghp-import -n -p -f output
